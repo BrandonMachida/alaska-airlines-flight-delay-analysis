@@ -93,7 +93,9 @@ A Tableau dashboard was developed to display insights interactively, hosted publ
 - **Trend Analysis**: Displays delays by month, day, and time of day to highlight patterns and potential operational inefficiencies.
 - **Delay Type Breakdown**: Allows users to drill down into specific delay types, understanding their relative contributions to departure delays.
 
-[View the Alaska Airlines Departure Data Dashboard](https://public.tableau.com/views/alaska_airlines_departure_data_dashboard/Main)
+[View the Alaska Airlines Departure Data Dashboard](https://public.tableau.com/views/alaska_airlines_departure_data_dashboard/Main) or see preview below.
+
+[![Dashboard Preview](https://public.tableau.com/static/images/al/alaska_airlines_departure_data_dashboard/Main/1.png)](https://public.tableau.com/views/alaska_airlines_departure_data_dashboard/Main)
 
 ## Key Findings
 1. **Carrier Delays Are the Primary Delay Cause at HNL Airport**:
