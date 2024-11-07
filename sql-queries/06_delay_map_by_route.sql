@@ -8,7 +8,7 @@ SELECT
     COUNT(*) AS total_flights, -- Total number of flights on the route
     SUM(CASE WHEN departure_delay >= 15 THEN 1 ELSE 0 END) AS total_delayed_flights -- Total number of delayed flight on the route
 FROM 
-    all_airlines_departure_data_hnl
+    alaska_airlines_departure_data_hnl
 GROUP BY 
     carrier_code, destination_airport
 ORDER BY 
