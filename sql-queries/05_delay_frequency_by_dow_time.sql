@@ -17,7 +17,7 @@ SELECT
     END AS time_of_day,
     ROUND(SUM(CASE WHEN departure_delay >= 15 THEN 1 ELSE 0 END) * 100.0 / COUNT(*), 2) AS delay_rate
 FROM 
-    all_airlines_departure_data_hnl
+    alaska_airlines_departure_data_hnl
 GROUP BY 
     carrier_code, day_of_week, time_of_day
 ORDER BY 
