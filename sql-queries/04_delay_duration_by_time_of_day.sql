@@ -8,7 +8,7 @@ SELECT
     END AS time_of_day,
     ROUND(AVG(departure_delay), 2) AS avg_delay_duration
 FROM 
-    all_airlines_departure_data_hnl
+    alaska_airlines_departure_data_hnl
 WHERE
     departure_delay >= 15
 GROUP BY 
