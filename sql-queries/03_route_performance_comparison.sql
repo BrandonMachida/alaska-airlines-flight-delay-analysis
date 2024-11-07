@@ -5,7 +5,7 @@ WITH ranked_routes AS (
         COUNT(CASE WHEN departure_delay >= 15 THEN 1 END) * 100.0 / COUNT(*) AS percent_delayed,
         ROW_NUMBER() OVER (PARTITION BY carrier_code ORDER BY COUNT(CASE WHEN departure_delay >= 15 THEN 1 END) * 100.0 / COUNT(*) DESC) AS rank
     FROM 
-        all_airlines_departure_data_hnl
+        alaska_airlines_departure_data_hnl
     GROUP BY 
         carrier_code, destination_airport
     HAVING 
