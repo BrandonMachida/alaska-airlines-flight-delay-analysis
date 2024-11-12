@@ -95,7 +95,7 @@ A Tableau dashboard was developed to display insights interactively, hosted publ
 
 [View the Alaska Airlines Departure Data Dashboard](https://public.tableau.com/views/alaska_airlines_departure_data_dashboard/Main) or see preview below.
 
-<div class='tableauPlaceholder' id='viz1731381195028' style='position: relative'><noscript><a href='#'><img alt='Main ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;al&#47;alaska_airlines_departure_data_dashboard&#47;Main&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='alaska_airlines_departure_data_dashboard&#47;Main' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;al&#47;alaska_airlines_departure_data_dashboard&#47;Main&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /><param name='filter' value='publish=yes' /></object></div>
+[![Dashboard Preview](./tableau-dashboard/alaska_airlines_dashboard_screenshot.png)](https://public.tableau.com/app/profile/brandon.machida/viz/alaska_airlines_departure_data_dashboard/Main)
 
 ## Key Findings
 1. **Late Aircraft Arrival as the Leading Delay Cause at HNL Airport**:
