@@ -89,9 +89,9 @@ Each SQL query provided valuable insights into the data, supporting Alaska Airli
 
 ### 4. Dashboard Visualization
 A Tableau dashboard was developed to display insights interactively, hosted publicly. The dashboard includes:
-- **Summary Metrics**: Visualizes total delays by type (carrier, weather, etc.), with interactive filters for specific timeframes.
-- **Trend Analysis**: Displays delays by month, day, and time of day to highlight patterns and potential operational inefficiencies.
-- **Delay Type Breakdown**: Allows users to drill down into specific delay types, understanding their relative contributions to departure delays.
+- **Summary Overview**: Provides a high-level summary of key metrics related to flights departing from Honolulu (HNL), specifically focusing on delay statistics and route details.
+- **Delay Type Breakdown**: Allows users to drill down into specific delay types, understanding their relative contributions to departure delays. It offers insights into which routes and delay types most impact operations, guiding potential areas for improvement in delay management.
+- **Trend Analysis**: Displays a trend analysis of flight delays over time, showcasing patterns by day of the week, month, season, and week. This section highlights peak delay times, helping to identify when delays are most frequent and inform resource allocation for better delay management.
 
 [View the Alaska Airlines Departure Data Dashboard](https://public.tableau.com/views/alaska_airlines_departure_data_dashboard/Main) or see preview below.
 
